@@ -8,6 +8,7 @@ N.B: This is a curated list of [Singularity](https://www.sylabs.io/singularity/)
 |	Another Workflow Name 2	|	Analyze data	|	MAWL	|	Bleeding edge technology	|
 
 ## [GVCP](https://github.com/elixir-no-nels/snakemake_germline)
+![GVCP logo](https://raw.githubusercontent.com/oskarvid/tsd-containers/master/GVCP.png)
 ![GVCP logo](https://raw.githubusercontent.com/oskarvid/tsd-containers/master/GVCP2.png)
 ### Features
 * Germline variant calling for individual genomes
