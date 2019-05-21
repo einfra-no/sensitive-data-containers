@@ -2,7 +2,7 @@
 N.B: This is a curated list of [Singularity](https://www.sylabs.io/singularity/) containers that are verified to work on TSD.
 
 | Name | Purpose                  | Workflow language | Major features                     |
-|------|--------------------------|-------------------|------------------------------------|
+|------|--------------------------|-------------------|------------------------------------| 
 |	[GVCP](https://github.com/elixir-no-nels/snakemake_germline)	|	Germline variant calling	|	Snakemake	|	Highly parallelized, based on GATK	|
 |	Another Workflow Name	|	Analyze data	|	MAWL	|	Bleeding edge technology	|
 |	Another Workflow Name 2	|	Analyze data	|	MAWL	|	Bleeding edge technology	|
