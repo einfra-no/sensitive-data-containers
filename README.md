@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Containers for use on TSD
+N.B: This is a curated list of [Singularity](https://www.sylabs.io/singularity/) containers that are verified to work on TSD.
 
-You can use the [editor on GitHub](https://github.com/oskarvid/tsd-containers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+| Name | Purpose                  | Workflow language | Major features                     |
+|------|--------------------------|-------------------|------------------------------------|
+| [GVCP](https://github.com/elixir-no-nels/snakemake_germline) | Germline variant calling | Snakemake         | Highly parallelized, based on GATK                     |
+| [rbFlow-Germline](https://github.com/elixir-no-nels/snakemake_germline) | Germline variant calling | rbFlow lite | Based on GATK |
+|      |                          |                   |                                    |
+|      |                          |                   |                                    |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [GVCP](https://github.com/elixir-no-nels/snakemake_germline)
+### Features
+* Germline variant calling for individual genomes
+* Multi sample support 
+* Slurm status reporting
+* Highly parallelized execution
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Test
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oskarvid/tsd-containers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
