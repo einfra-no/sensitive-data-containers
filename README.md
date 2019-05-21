@@ -17,6 +17,7 @@ N.B: This is a curated list of [Singularity](https://www.sylabs.io/singularity/)
 * Highly parallelized execution
 
 ## Another Workflow Name - AWN
+![MAWL logo](https://raw.githubusercontent.com/oskarvid/tsd-containers/master/MAWL.png)
 ### Features
 * Analyze data
 * Only bleeding edge compiled code
