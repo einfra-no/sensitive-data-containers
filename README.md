@@ -18,8 +18,7 @@ N.B: This is a curated list of [Singularity](https://www.sylabs.io/singularity/)
 ### Features
 * Analyze data
 * Only bleeding edge compiled code
-* MAWL - Most Advanced Workflow Language  
-___
+* MAWL - Most Advanced Workflow Language
 
 ## Another Workflow Name2 - AWN2
 ### Features
