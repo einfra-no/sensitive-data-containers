@@ -14,7 +14,7 @@ The following information is needed for a workflow or container to be included o
 
 
 #### End user documentation
-This is a template for the documentation that is required for an end user to independently set up and run the workflow or container. This documentation should be hosted in your own github repository or any other place you find suitable. The is documentation essential for the submitted workflow or container to be listed.
+This is a template for the documentation that is required for an end user to independently set up and run the workflow or container. This documentation should be hosted in your own github repository or any other place you find suitable. The documentation is essential for the submitted workflow or container to be listed.
 
 -- Name
 
