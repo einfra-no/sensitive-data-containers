@@ -11,4 +11,4 @@ Currently available workflows or containers:
 |	[RNAseq](www.link.com)	| RNA sequencing analysis workflow	|	1.3? | www.link.com |
 
 
-[How to list your container or workflow](https://github.com/einfra-no/sensitive-data-containers/blob/master/README.md/pages/submission-guidelines.md)
+[How to list your container or workflow](https://github.com/einfra-no/sensitive-data-containers/blob/master/pages/submission-guidelines.md)
