@@ -1,27 +1,14 @@
-## Workflows for TSD
-N.B: This is a curated list of [Singularity](https://www.sylabs.io/singularity/) containers and workflows that are verified to work on TSD.
+# Sensitive data containers
 
-| Name | Purpose                  | Workflow language | Major features                     |
-|------|--------------------------|-------------------|------------------------------------|
-|	[Selma](https://github.com/elixir-no-nels/Selma)	|	Germline variant calling	|	Snakemake	|	Highly parallelized, based on GATK	|
-|	[GRSworkflow](https://github.com/neicnordic/GRSworkflow/tree/optimized)	|	Genetic Risk Score estimation	|	bash/slurm	|	Built for sensitive data	|
-|	Another Workflow Name 2	|	Analyze data	|	MAWL	|	Bleeding edge technology	|
+This page aims to gather well documented and properly tested containers and workflows from the following e-infrastructure projects in Norway: NorSeq, Elixir Norway, Tryggve, Bio Bank Norway, Sigma2.
 
-## [Selma](https://github.com/elixir-no-nels/snakemake_germline)
-![Selma logo](https://raw.githubusercontent.com/oskarvid/tsd-containers/master/.Selma-snake-head.png)
-### Features
-* Germline variant calling for individual genomes
-* Snakemake
+Currently available workflows or containers:  
 
-## [GRSworkflow](https://github.com/neicnordic/GRSworkflow/tree/optimized)
-### Features
-* Genetic Risk Score estimation
-* Bash workflow for slurm clusters
-* [Publication](https://doi.org/10.1017/S0033291717002665)
+|	Name	| Purpose	|	Version	|	More information	|
+|------|--------------------------|-------------------|-------------------|
+|	[Selma](https://github.com/elixir-no-nels/Selma)	|	Germline variant calling workflow	|	19.09?	| [Documentation](https://github.com/elixir-no-nels/Selma/blob/master/README.md) |
+|	[GRSworkflow](https://github.com/neicnordic/GRSworkflow/tree/optimized)	|	Genetic Risk Score estimation workflow	|	18.09	| [Documentation](https://github.com/neicnordic/GRSworkflow/blob/optimized/README.md) |
+|	[RNAseq](www.link.com)	| RNA sequencing analysis workflow	|	1.3? | www.link.com |
 
-## Another Workflow Name2 - AWN2
-![logo](https://raw.githubusercontent.com/oskarvid/tsd-containers/master/MAWL.png)
-### Features
-* Analyze data
-* Only bleeding edge compiled code
-* MAWL - Most Advanced Workflow Language
+
+[How to list your container or workflow](https://github.com/einfra-no/sensitive-data-containers/blob/master/README.md/pages/submission-guidelines.md)
