@@ -26,7 +26,7 @@ This is a template for the documentation that is required for an end user to ind
 
 -- Instructions for how to run the workflow or container with the toy data
 
--- Compute resources required for testing
+-- Compute resources required for testing and an estimation for resources needed for production use
 
 -- Contact information for support questions
 
