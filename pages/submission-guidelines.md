@@ -1,33 +1,24 @@
 ### Submission guidelines
-Send an email including the information for the table as listed below or fork this repository and make a pull request with the information already filled in.
+If you don't have push access to the repository you can contact [Oskar Vidarsson](mailto:oskar.vidarsson@uib.no), [Kim Brugger](mailto:kim.brugger@uib.no) or [Kjell Petersen](mailto:kjell.petersen@uib.no) to get push access.
 
-The following information is needed for a workflow or container to be included on this site:  
+Then you can clone the repository and follow the instructions below.
+
+#### End user documentation
+These instructions describe the steps necessary to create a new page for your container.
+
+-- Create a new directory with the same name as your workflow/tool/etc in the `docs` directory.  
+-- Copy the `_config.yaml` and `basic-documentation` files from the `templates` directory into the new directory in the `pages` directory.  
+-- Follow the instructions in the template.  
+-- If you already have documented your container elsewhere, you can simply link to it like in [this example](https://github.com/einfra-no/sensitive-data-containers/blob/master/pages/Selma/Selma.md). 
+-- Push the changes to the repository to publish the instructions etc to the website.  
+-- Verify that all links work as they are supposed to.  
 
 #### Information for the table
+Open the README.md file and add the following information to the table:  
 -- Name
 
 -- Up to 5 words describing what the container or workflow does
 
 -- Either a version number or a description of the maturity level such as alpha, beta, first release etc.
 
--- Link to the documentation page for the workflow or container, this documentation can be in your own github repository or any other place you find suitable.
-
-
-#### End user documentation
-This is a template for the documentation that is required for an end user to independently set up and run the workflow or container. This documentation should be hosted in your own github repository or any other place you find suitable. The documentation is essential for the submitted workflow or container to be listed.
-
--- Name
-
--- Brief description
-
--- How to install the software on the platforms it has been tested on, such as TSD, HUNT-Cloud, Safe etc
-
--- Toy data for testing
-
--- Instructions for how to run the workflow or container with the toy data
-
--- Compute resources required for testing and an estimation for resources needed for production use
-
--- Contact information for support questions
-
--- Any additional useful information
+-- Link to the documentation page, that you created with the instructions above, for the workflow or container on this page.
