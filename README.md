@@ -7,7 +7,7 @@ Currently available workflows or containers:
 |	Name	| Purpose	|	Version	|	More information	|
 |------|--------------------------|-------------------|-------------------|
 |	[Selma](https://github.com/elixir-no-nels/Selma)	|	Germline variant calling workflow	|	19.09?	| [Documentation](https://github.com/einfra-no/sensitive-data-containers/blob/master/pages/Selma/Selma.md) |
-|	[GRSworkflow](https://github.com/neicnordic/GRSworkflow/tree/optimized)	|	Genetic Risk Score estimation workflow	|	18.09	| [Documentation](https://github.com/einfra-no/sensitive-data-containers/blob/master/pages/GRSWorkflow/GRSWorkflow.md) |
+|	[GRSworkflow](https://github.com/neicnordic/GRSworkflow/tree/optimized)	|	Genetic Risk Score estimation workflow	|	18.09	| [Documentation](https://github.com/einfra-no/sensitive-data-containers/blob/master/pages/GRSWorkflow.md) |
 |	[RNAseq](www.link.com)	| RNA sequencing analysis workflow	|	1.3? | www.link.com |
 
 
