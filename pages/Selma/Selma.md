@@ -7,15 +7,15 @@
 ## Description
 Selma is a germline variant calling workflow developed at the University of Bergen. The workflow itself is based on Snakemake and all dependencies are handled by using Docker and Singularity container technology. The workflow has been tested on Colossus on TSD. Selma is named after the mythical Norwegian sea serpent that supposedly lives in Lake Seljord.
 
-## Homepage of container
-https://github.com/elixir-no-nels/Selma
+## Homepage
+[https://github.com/elixir-no-nels/Selma](https://github.com/elixir-no-nels/Selma)
 
 ## Tool versions
-https://github.com/elixir-no-nels/Selma#tools
+[https://github.com/elixir-no-nels/Selma#tools](https://github.com/elixir-no-nels/Selma#tools)
 Selma container version: 19.09
 
 ## Dependencies
-[Singularity](https://github.com/elixir-no-nels/Selma/blob/master/docs/developer-instructions.md#cloning-this-repository-and-building-the-singularity-image)
+[Singularity](https://github.com/elixir-no-nels/Selma/blob/master/docs/developer-instructions.md#cloning-this-repository-and-building-the-singularity-image)  
 Docker: 19.03.2+
 
 ## Testing and installation instructions
