@@ -5,7 +5,7 @@
 </h1>
 
 ## Description
-GRSWorkflow is a workflow for gene risk score estimation developed by Lu Yi at Karolinska Institutet in Sweden and implemented for slurm execution by Oskar Vidarsson at the University of Bergen. All dependencies are handled by using Singularity container technology. 
+GRSWorkflow is a workflow for genetic risk score estimation developed by Lu Yi at Karolinska Institutet in Sweden and implemented for slurm execution by Oskar Vidarsson at the University of Bergen. All dependencies are handled by using Singularity container technology. 
 
 ## Installation instructions
 All installation documentation is located on the [github repository](https://github.com/neicnordic/GRSworkflow/tree/optimized). 
