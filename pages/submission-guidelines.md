@@ -1,7 +1,7 @@
 ## Submission guidelines
 Begin by requesting push access from [Oskar Vidarsson](mailto:oskar.vidarsson@uib.no), [Kim Brugger](mailto:kim.brugger@uib.no) or [Kjell Petersen](mailto:kjell.petersen@uib.no).
 
-Then you can clone the repository and follow the instructions below.
+Then you can clone [the repository](https://github.com/einfra-no/sensitive-data-containers) and follow the instructions below.
 
 ### End user documentation
 These instructions describe the steps necessary to create a new page for your container.
