@@ -9,7 +9,7 @@ These instructions describe the steps necessary to create a new page for your co
 1. Create a new directory with the same name as your workflow/tool/etc in the `docs` directory.  
 2. Copy the `basic-documentation.md` file from the `templates` directory into the new directory in the `pages` directory.  
 3. Follow the instructions in the template.  
-	1. If you already have documented your container elsewhere, you can use [this example](https://github.com/einfra-no/sensitive-data-containers/blob/master/pages/Selma/Selma.md) as inspiration instead of documenting it twice.  
+	1. If you already have documented your container elsewhere, you can use [this example](pages/Selma/Selma.md) as inspiration instead of documenting it twice.  
 4. Save the document with a new name such as `containername.md` or similar.  
 
 
