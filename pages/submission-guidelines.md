@@ -1,5 +1,5 @@
 ## Contribution guidelines
-Begin by requesting access to this sensitive-data-containers github repo from [Oskar Vidarsson](mailto:oskar.vidarsson@uib.no), [Kim Brugger](mailto:kim.brugger@uib.no) or [Kjell Petersen](mailto:kjell.petersen@uib.no).
+Begin by requesting access to this sensitive-data-containers github repo from Oskar.Vidarsson _at_ uib.no, Kim.Brugger _at_ uib.no or Kjell.Petersen _at_ uib.no.
 
 Then you can either clone [the repository](https://github.com/einfra-no/sensitive-data-containers) and follow the instructions below, or edit in your contributions directly through the github web gui for the repo.
 
