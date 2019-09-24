@@ -4,9 +4,9 @@ This page aims to gather well documented and properly tested containers and work
 
 Currently available workflows or containers:  
 
-|	Name	| Purpose	|	Version	|	More information	|
+|	Name	| Purpose	|	Version	|	Usage documentation	|
 |------|--------------------------|-------------------|-------------------|
-|	[Selma](https://github.com/elixir-no-nels/Selma)	|	Germline variant calling workflow	|	19.09?	| [Documentation](pages/Selma/Selma.md) |
+|	[Selma](https://github.com/elixir-no-nels/Selma)	|	Germline variant calling workflow	|	19.09?	| [TSD Selma documentation](pages/Selma/Selma.md) |
 |	[GRSworkflow](https://github.com/neicnordic/GRSworkflow/tree/optimized)	|	Genetic Risk Score estimation workflow	|	18.09	| [Documentation](pages/GRSWorkflow/GRSWorkflow.md) |
 |	[RNAseq](www.link.com)	| RNA sequencing analysis workflow	|	1.3? | www.link.com |
 
