@@ -19,6 +19,6 @@ Open the README.md file and add the following information to the table:
 	1. Add a link to the name: currently the link is to the home page of the container, not the documentation page... Could be misleading? We improved header of the table as a temporary fix for now.
 2. Up to 5 words describing what the container or workflow does  
 3. Either a version number or a description of the maturity level such as alpha, beta, first release etc.  
-4. Link to the documentation page, that you created with the instructions above, for the container on this page. The link is not the complete url, it's as simple as `pages/name/name.md`.  
+4. Link to the documentation page, that you created with the instructions above, for the container on this page. The link is not the complete url, it's as simple as `pages/folder-name/page-name.md`. NB: Multiple links for different infrastructures and same container would go into this same "Usage documentation column", with different named links, reflecting the infrastructure and container combination. i.e. "TSD Selma documentation". 
 5. If editing a local clone: Push the changes to the repository to publish your additions etc to the website, else if editing online: comment your changes and commit. 
 6. Verify that all links work as they are supposed to.  
