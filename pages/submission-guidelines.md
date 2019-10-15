@@ -16,7 +16,7 @@ These instructions describe the steps necessary to create a new page for your co
 ### Information for the table
 Open the README.md file and add the following information to the table:  
 1. Name  
-	1. Add a link to the name: currently the link is to the home page of the container, not the documentation page... Could be misleading? We improved header of the table as a temporary fix for now.
+	1. Do _not_ add a link to container homepgae, will be part of the container specific tes/usage page instead.
 2. Up to 5 words describing what the container or workflow does  
 3. Either a version number or a description of the maturity level such as alpha, beta, first release etc.  
 4. Link to the documentation page, that you created with the instructions above, for the container on this page. The link is not the complete url, it's as simple as `pages/folder-name/page-name.md`. NB: Multiple links for different infrastructures and same container would go into this same "Usage documentation column", with different named links, reflecting the infrastructure and container combination. i.e. "TSD Selma documentation". 
