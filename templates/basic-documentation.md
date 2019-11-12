@@ -20,7 +20,7 @@ Link to the generic home of the container.
 2. TSD instructions, or  
 3. HUNT-Cloud instructions, or  
 4. Safe etc
-5. Each platform will have it's own separate test web page like this.
+5. Each platform will have its own separate test web page like this.
 
 ## Test data
 Describe briefly the test data selected, and how a realistic test this is to represent a common production usage.
