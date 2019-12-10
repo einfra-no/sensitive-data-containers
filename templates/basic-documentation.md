@@ -16,7 +16,7 @@ Link to the generic home of the container.
 * For workflows, versions of major tools in the workflow.
 
 ## Installation instructions
-Document how to install the software on this sensitive data platform it has been tested on  
+Document how to install the software on the sensitive data platform it has been tested on  
 * TSD instructions, or HUNT-Cloud instructions, or SAFE etc
 * Each platform will have its own separate test web page like this.
 
@@ -31,10 +31,10 @@ Document how to install the software on this sensitive data platform it has been
 ### Test data
 Describe briefly the test data selected.
 * A mandatory real size dataset that will give an impression of the running time and corresponding needed resources to complete the anlaysis in this infrastructure. Include instruction on obtaining the input data (i.e. from a shared area in the infrastructure or online location).
-* Preferably also have a small toy dataset to simply start a small (complete) test run of the container, without do the full scale test.
+* Preferably also have a small toy dataset to simply start a small (complete) test run of the container, without doing the full scale test.
 
 ### Execution details for the "real size" data test 
-Instructions for how to run the workflow or container with the real size test data to produce the results refered to in next section. Preferably a ready command-line or similar to run the exact same test, and not simply a link to the same documentation as under "Usage instructions" above.
+Instructions for how to run the workflow or container with the real size test data to produce the results referred to in the next section. Preferably a ready command-line or similar to run the exact same test, and not simply a link to the same documentation as under "Usage instructions" above.
 
 ### Results for the "real size" dataset 
 The running time, memory consumption, cpu usage, input size and output size of the test run on this infrastructure. "Rule of thumb guideline results", not exact benchmark results.
