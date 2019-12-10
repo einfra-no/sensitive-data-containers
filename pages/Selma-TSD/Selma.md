@@ -12,7 +12,7 @@ Selma is a germline variant calling workflow developed at the University of Berg
 
 ## Tool versions
 [https://github.com/elixir-no-nels/Selma#tools](https://github.com/elixir-no-nels/Selma#tools)  
-Selma container version: 19.09
+Selma container version: 19.11
 
 ## Dependencies
 [Singularity](https://github.com/elixir-no-nels/Selma/blob/master/docs/developer-instructions.md#cloning-this-repository-and-building-the-singularity-image)  
