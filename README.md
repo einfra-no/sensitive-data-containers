@@ -6,7 +6,7 @@ Currently available workflows or containers:
 
 |	Name	| Purpose	|	Version	|	Usage documentation	|
 |------|--------------------------|-------------------|-------------------|
-|	Selma	|	Germline variant calling workflow	|	19.11 | [TSD Selma documentation](pages/Selma-TSD/Selma.md) |
+|	Selma	|	WGS Germline variant calling workflow	|	19.11 | [TSD Selma documentation](pages/Selma-TSD/Selma.md) |
 |	GRSworkflow	|	Genetic Risk Score estimation workflow	|	18.09	| [TSD GRSworkflow documentation](pages/GRSworkflow-TSD/GRSworkflow.md) |
 |	NF-Core RNAseq | RNA sequencing analysis workflow	|	1.3? | [Link to come](https://www.link.com) |
 
