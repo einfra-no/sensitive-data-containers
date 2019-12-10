@@ -15,18 +15,18 @@ Link to the generic home of the container.
 * Versions of any other dependencies on the system that the container was run/tested on, that is known to be relevant.
 * For workflows, versions of major tools in the workflow.
 
-## Hardware/resource requirements
-* Resources required for testing and an estimation of resources needed for production use
-
 ## Install instructions
-1. Document how to install the software on this sensitive data platform it has been tested on  
-2. TSD instructions, or  
-3. HUNT-Cloud instructions, or  
-4. Safe etc
-5. Each platform will have its own separate test web page like this.
+Document how to install the software on this sensitive data platform it has been tested on  
+* TSD instructions, or HUNT-Cloud instructions, or SAFE etc
+* Each platform will have its own separate test web page like this.
+
+## Hardware/resource requirements
+* Resources typically required for production use (often the same as chosen for the actual test below).
 
 ## Test data
-Describe briefly the test data selected, and how a realistic test this is to represent a common production usage.
+Describe briefly the test data selected.
+* A mandatory real size dataset that will give an impression of the running time and corresponding needed resources to complete the anlaysis in this infrastructure. Include instruction on obtaining the input data (i.e. from a shared area in the infrastructure or online location).
+* Preferably also have a small toy dataset to simply start a small (complete) test run of the container, without do the full scale test.
 
 ## Testing instructions 
 Instructions for how to run the workflow or container with the test data.
