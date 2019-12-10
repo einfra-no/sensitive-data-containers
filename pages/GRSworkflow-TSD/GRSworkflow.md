@@ -1,4 +1,4 @@
-# GRSWorkflow
+# GRSWorkflow in TSD
 <h1 align="center">
   <br>
   <a href="https://github.com/neicnordic/GRSworkflow/tree/optimized"><img src="https://raw.githubusercontent.com/neicnordic/GRSworkflow/optimized/.GRSworkflowDAG.png" alt="GRSWorkflow" width="720"></a>
