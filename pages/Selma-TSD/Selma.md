@@ -1,4 +1,4 @@
-# Selma
+# Selma in TSD
 <h1 align="center">
   <br>
   <a href="https://github.com/elixir-no-nels/Selma"><img src="https://raw.githubusercontent.com/elixir-no-nels/Selma/master/.selma.svg?sanitize=true" alt="Selma" width="300"></a>
