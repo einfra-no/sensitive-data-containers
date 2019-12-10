@@ -18,15 +18,24 @@ Selma container version: 19.11
 Docker: 19.03.2+  
 [https://github.com/elixir-no-nels/Selma#tools](https://github.com/elixir-no-nels/Selma#tools)  
 
-## Testing and installation instructions
-All testing and installation documentation is located in the github repository:  
-1. [TSD instructions](https://github.com/elixir-no-nels/Selma/blob/master/docs/TSD-instructions.md)  
+## Installation instructions
+1. [TSD instructions](https://github.com/elixir-no-nels/Selma/blob/master/docs/TSD-instructions.md#installation)  
 2. [Developer instructions](https://github.com/elixir-no-nels/Selma/blob/master/docs/developer-instructions.md)  
-3. [Instructions for local use](https://github.com/elixir-no-nels/Selma/blob/master/docs/instructions-for-local-use.md)  
+
+## Hardware/resource requirements
+Resources typically required for production use
+The workflow runs well with 16 cores and 3750MB of RAM per core.  
+The staging disk requires roughly 100GB of temporary space to complete all file transfers.  
+A typical execution with a total of 50GB input files takes 17-18 hours, the default time that should be requested by SLURM should have a decent margin.  
+The user does not need to change the settings if the ones described above are desired. Adding more cores will shave some time off of the total execution time, but it does not scale linearly so it would be an "expensive" improvement if it is not critical to finish the workflow as soon as possible.  
+
+## Testing instructions
+[Testing instructions](https://github.com/elixir-no-nels/Selma/blob/master/docs/TSD-instructions.md#quickstart)
 
 ## Test data
-The provided test fastq files were produced by running `head -n 40000 input_R1.fastq > output_R1.fastq` and `head -n 40000 input_R2.fastq > output_R2.fastq` on a larger pair of fastq files.  
-The workflow will run all but the last step due to a limitation in that tool, it requires a full scale vcf file as input which is 200MB+.
+The provided toy fastq files were produced by running `head -n 40000 input_R1.fastq > output_R1.fastq` and `head -n 40000 input_R2.fastq > output_R2.fastq` on a larger pair of fastq files and are found in `Selma/workspace/fastq/`.  
+The workflow will run all but the last step due to a limitation in that tool.  
+There are production scale test files available as well. They are located in `/tsd/shared/bioinformatics/Test_Data/DNA_Fastqs/`
 
 ## Testing results with respect to resources
 A test with the provided fastq files should take about 10 minutes on a 16 core and 16GB machine, the disk should have 10GB free space to fit the reference files and output files. For production use you should consider at least a 16 core 16GB+ server with 500GB intermediary storage. The final output files should be less than 100GB per sample.
