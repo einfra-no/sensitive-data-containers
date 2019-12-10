@@ -1,4 +1,4 @@
-# Name of your tool/service/workflow etc
+# "Name of your container(workflow/tool/service etc)" in "the infrastructure it's been tested in"
 Logo or other image if it exists
 
 ## Description
@@ -7,10 +7,13 @@ Write a few key sentences here about what the container provides, and that this 
 ## Homepage of container
 Link to the generic home of the container.
 
-## Versions and dependencies
-* Version of the container itself
+## Container version/release
+* Version of the container itself (and its full set of related code)
+
+## Other relevant versions
 * Version of the container technology that was used for testing
 * Versions of any other dependencies on the system that the container was run/tested on, that is known to be relevant.
+* For workflows, versions of major tools in the workflow.
 
 ## Hardware/resource requirements
 * Resources required for testing and an estimation of resources needed for production use
